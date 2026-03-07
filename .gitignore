@@ -1,5 +1,7 @@
 .DS_Store
 .idea/
+.databricks/
+.vscode/
 *.swp
 *.swo
 __pycache__/
