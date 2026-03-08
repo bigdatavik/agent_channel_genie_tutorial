@@ -2,7 +2,7 @@
 
 A **deploy-only** Genie Room setup (Agent Channel Analytics). Use the Databricks Asset Bundle to **deploy to staging**; the job is **not run** by the bundle. Run the notebook manually in the workspace, then complete the room using the included guide.
 
-**GitHub:** [bigdatavik/agent_channel_genie_tutorial](https://github.com/bigdatavik/agent_channel_genie_tutorial) (private)
+**GitHub:** [bigdatavik/agent_channel_genie_tutorial](https://github.com/bigdatavik/agent_channel_genie_tutorial) (public)
 
 ---
 
