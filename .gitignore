@@ -8,3 +8,6 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# Databricks config (contains your workspace host/profile) — use databricks.yml.example as template
+databricks.yml
